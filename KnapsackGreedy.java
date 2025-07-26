@@ -64,7 +64,5 @@ public class KnapsackGreedy {
 
         KnapsackGreedy kg = new KnapsackGreedy();
         kg.solve();
-
-        sc.close();
     }
 }
